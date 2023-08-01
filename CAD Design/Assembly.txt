@@ -1,0 +1,1 @@
+Use the 'MPCNC.SLDASM' file to open the assembly file.
