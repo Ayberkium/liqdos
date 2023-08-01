@@ -5,3 +5,5 @@ In this project our main aim is developing an automatic liquid dosing system tha
 This project was supported within the scope of TÜBİTAK 2209-A projects.
 
 I would like to thank to our advisor Dr. Serkan Doğanay, who contributed greatly to the realization of the project.
+
+Thanks also to my teammates: Ömer Yüce, Kadri Emre Orgun, Haydar Barış Öcal.
